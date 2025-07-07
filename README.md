@@ -6,6 +6,7 @@
 * DURATION: 4 WEEKS
 * MENTOR: NEELA SANTOSH
 * YOU HAVE TO ENTER DESCRIPTION OF YOUR TASK(AND IT SHOULD NOT BE LESS THAN 500 WORDS)
+* ![Image](https://github.com/user-attachments/assets/12aae9ff-4b87-41fb-bd05-a114efe41e16)
 * **AI Chatbot with NLP (Natural Language Processing)**
 *\~ Explained in about 500 words*
 
